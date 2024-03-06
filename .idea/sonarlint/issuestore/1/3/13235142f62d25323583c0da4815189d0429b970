@@ -1,0 +1,10 @@
+
+G	java:S106"+Replace this use of System.out by a logger.(¸Ñ±Â8¢ò½Åµ1
+L	java:S106"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8£ò½Åµ1
+C
+java:S11106"!Remove these useless parentheses.(ì–Ìÿÿÿÿÿ8§ò½Åµ1
+C
+java:S11107"!Remove these useless parentheses.(Îª­ıÿÿÿÿ8¨ò½Åµ1
+L	java:S106@"+Replace this use of System.out by a logger.(´Şúÿÿÿÿ8©ò½Åµ1
+G	java:S106A"+Replace this use of System.out by a logger.(ïÈºŒ8©ò½Åµ1
+L	java:S106B"+Replace this use of System.out by a logger.(¥¶ëãÿÿÿÿÿ8©ò½Åµ1

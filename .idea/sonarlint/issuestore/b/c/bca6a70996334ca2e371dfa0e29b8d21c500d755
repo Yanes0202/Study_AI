@@ -1,0 +1,8 @@
+
+`
+java:S3034">Prevent "int" promotion by adding "& 0xff" to this expression.(£ÅÈ‰ùÿÿÿÿ8¶‹ŒƒÕ1
+F	java:S1065"+Replace this use of System.out by a logger.(Ê§×`8ê‹ŒƒÕ1
+L	java:S1067"+Replace this use of System.out by a logger.(ó±ÈÌùÿÿÿÿ8ë‹ŒƒÕ1
+G	java:S1069"+Replace this use of System.out by a logger.(âìËÊ8ë‹ŒƒÕ1
+L	java:S106;"+Replace this use of System.out by a logger.(ªÓ¼áþÿÿÿÿ8ë‹ŒƒÕ1
+G	java:S106>"+Replace this use of System.out by a logger.(ëÿê©8Œ¡ŽƒÕ1

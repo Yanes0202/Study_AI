@@ -1,0 +1,18 @@
+
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ªµÔ¼şÿÿÿÿ8´­¡Õ1
+m	java:S117&"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†’óÊ8´­¡Õ1
+m	java:S117*"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(€—¸Ì8´­¡Õ1
+r	java:S117+"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ğæèñúÿÿÿÿ8´­¡Õ1
+r	java:S117."QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Úè‹²úÿÿÿÿ8´­¡Õ1
+r	java:S117/"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(µ¨±Îÿÿÿÿÿ8´­¡Õ1
+e
+java:S2184*"HCast one of the operands of this multiplication operation to a "double".(€—¸Ì8µ­¡Õ1
+L	java:S1068"+Replace this use of System.out by a logger.(Ûö¯¼üÿÿÿÿ8Ú­¡Õ1
+G	java:S106C"+Replace this use of System.out by a logger.(ÙãªÔ8Û­¡Õ1
+G	java:S106D"+Replace this use of System.out by a logger.(ŞÓÁê8Û­¡Õ1
+L	java:S106E"+Replace this use of System.out by a logger.(èçùüÿÿÿÿ8Û­¡Õ1
+L	java:S106P"+Replace this use of System.out by a logger.(…ß”Ìùÿÿÿÿ8Ü­¡Õ1
+G	java:S106Q"+Replace this use of System.out by a logger.(Ø¦á“8Ü­¡Õ1
+G	java:S106R"+Replace this use of System.out by a logger.(çşĞ8Ü­¡Õ1
+G	java:S106T"+Replace this use of System.out by a logger.(ªõ¶‘8Ü­¡Õ1
+L	java:S106U"+Replace this use of System.out by a logger.(¥®‡şÿÿÿÿ8İ­¡Õ1

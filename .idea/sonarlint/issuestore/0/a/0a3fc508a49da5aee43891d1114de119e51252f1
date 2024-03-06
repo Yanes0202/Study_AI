@@ -1,0 +1,7 @@
+
+2
+java:S1643m"Use a StringBuilder instead.(ÊáüÌ
+m
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(’øÀŠøÿÿÿÿ
+@	java:S106S"+Replace this use of System.out by a logger.(÷¥Íö
+E	java:S106o"+Replace this use of System.out by a logger.(®ıáëûÿÿÿÿ

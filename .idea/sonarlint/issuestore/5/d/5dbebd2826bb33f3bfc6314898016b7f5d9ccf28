@@ -1,0 +1,16 @@
+
+9
+java:S1643"Use a StringBuilder instead.(±ùóÛ8”—‰‚Õ1
+>
+java:S1643!"Use a StringBuilder instead.(ìËÛÕøÿÿÿÿ8”—‰‚Õ1
+>
+java:S1643#"Use a StringBuilder instead.(†ê£Ëÿÿÿÿÿ8”—‰‚Õ1
+F	java:S1066"+Replace this use of System.out by a logger.(Ê§×`8¬—‰‚Õ1
+L	java:S1068"+Replace this use of System.out by a logger.(ó±ÈÌùÿÿÿÿ8­—‰‚Õ1
+G	java:S106:"+Replace this use of System.out by a logger.(ñ‚‰8­—‰‚Õ1
+L	java:S106<"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8­—‰‚Õ1
+G	java:S106?"+Replace this use of System.out by a logger.(£ Ä8­—‰‚Õ1
+G	java:S106A"+Replace this use of System.out by a logger.(âìËÊ8­—‰‚Õ1
+L	java:S106C"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8®—‰‚Õ1
+L	java:S106D"+Replace this use of System.out by a logger.(ƒ¯óáıÿÿÿÿ8®—‰‚Õ1
+L	java:S106F"+Replace this use of System.out by a logger.(‰½Ô¦ÿÿÿÿÿ8®—‰‚Õ1
